@@ -1,0 +1,12 @@
+{
+    "name": "adoe/sheets",
+    "authors": [
+        {
+            "name": "Adam Doe",
+            "email": "adoe@marketingincolor.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "^2.0"
+    }
+}
